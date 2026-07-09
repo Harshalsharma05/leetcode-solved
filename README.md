@@ -1,5 +1,3 @@
-"# leetcode-solved" 
-
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
