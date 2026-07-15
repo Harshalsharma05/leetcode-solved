@@ -24,6 +24,7 @@
 | [0503-next-greater-element-ii](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0907-sum-of-subarray-minimums) |
+| [1021-remove-outermost-parentheses](https://github.com/Harshalsharma05/leetcode-solved/tree/master/1021-remove-outermost-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/Harshalsharma05/leetcode-solved/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0402-remove-k-digits) |
+| [1021-remove-outermost-parentheses](https://github.com/Harshalsharma05/leetcode-solved/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
 | ------- |
