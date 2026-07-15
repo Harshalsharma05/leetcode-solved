@@ -54,8 +54,14 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0402-remove-k-digits) |
 | [1021-remove-outermost-parentheses](https://github.com/Harshalsharma05/leetcode-solved/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Harshalsharma05/leetcode-solved/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0402-remove-k-digits) |
+| [1903-largest-odd-number-in-string](https://github.com/Harshalsharma05/leetcode-solved/tree/master/1903-largest-odd-number-in-string) |
+## Math
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Harshalsharma05/leetcode-solved/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
