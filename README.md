@@ -59,6 +59,7 @@
 | [0205-isomorphic-strings](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0402-remove-k-digits) |
+| [0796-rotate-string](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Harshalsharma05/leetcode-solved/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Harshalsharma05/leetcode-solved/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
@@ -78,4 +79,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0242-valid-anagram) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
