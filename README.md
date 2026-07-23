@@ -10,6 +10,7 @@
 | [0503-next-greater-element-ii](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0907-sum-of-subarray-minimums) |
+| [0977-squares-of-a-sorted-array](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0977-squares-of-a-sorted-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Harshalsharma05/leetcode-solved/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0042-trapping-rain-water) |
+| [0977-squares-of-a-sorted-array](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,6 +90,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0451-sort-characters-by-frequency) |
+| [0977-squares-of-a-sorted-array](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0977-squares-of-a-sorted-array) |
 ## String Matching
 |  |
 | ------- |
