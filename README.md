@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0496-next-greater-element-i) |
@@ -48,6 +49,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0042-trapping-rain-water) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
@@ -92,6 +94,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0016-3sum-closest) |
 | [0242-valid-anagram](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0977-squares-of-a-sorted-array) |
