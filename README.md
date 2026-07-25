@@ -85,6 +85,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0062-unique-paths) |
 | [1903-largest-odd-number-in-string](https://github.com/Harshalsharma05/leetcode-solved/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
@@ -123,4 +124,8 @@
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0992-subarrays-with-k-different-integers) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
