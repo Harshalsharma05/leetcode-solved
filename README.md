@@ -6,6 +6,7 @@
 | [0014-longest-common-prefix](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0503-next-greater-element-ii) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0062-unique-paths) |
 | [0907-sum-of-subarray-minimums](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
@@ -131,4 +133,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0050-powx-n) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
