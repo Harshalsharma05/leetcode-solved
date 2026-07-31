@@ -84,11 +84,13 @@
 | [1021-remove-outermost-parentheses](https://github.com/Harshalsharma05/leetcode-solved/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshalsharma05/leetcode-solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Harshalsharma05/leetcode-solved/tree/master/1903-largest-odd-number-in-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshalsharma05/leetcode-solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0402-remove-k-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/Harshalsharma05/leetcode-solved/tree/master/1903-largest-odd-number-in-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshalsharma05/leetcode-solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Math
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 | [0062-unique-paths](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0062-unique-paths) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/Harshalsharma05/leetcode-solved/tree/master/1903-largest-odd-number-in-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshalsharma05/leetcode-solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Trie
 |  |
 | ------- |
