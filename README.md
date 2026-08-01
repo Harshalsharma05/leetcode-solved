@@ -154,5 +154,6 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0061-rotate-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
