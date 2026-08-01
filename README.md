@@ -56,6 +56,7 @@
 | [0016-3sum-closest](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -154,6 +155,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
