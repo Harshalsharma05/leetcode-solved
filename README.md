@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0062-unique-paths) |
@@ -79,6 +80,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0022-generate-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0402-remove-k-digits) |
@@ -163,4 +165,12 @@
 | [0142-linked-list-cycle-ii](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0147-insertion-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0237-delete-node-in-a-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
