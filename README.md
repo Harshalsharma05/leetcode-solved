@@ -22,6 +22,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0013-roman-to-integer) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0451-sort-characters-by-frequency) |
@@ -60,6 +61,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0202-happy-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -104,6 +106,7 @@
 | [0013-roman-to-integer](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0062-unique-paths) |
+| [0202-happy-number](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/Harshalsharma05/leetcode-solved/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshalsharma05/leetcode-solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -175,4 +178,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0022-generate-parentheses) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
