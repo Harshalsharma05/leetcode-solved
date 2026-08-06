@@ -8,6 +8,7 @@
 | [0042-trapping-rain-water](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0084-largest-rectangle-in-histogram) |
+| [0287-find-the-duplicate-number](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0628-maximum-product-of-three-numbers) |
@@ -62,6 +63,7 @@
 | [0086-partition-list](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -182,4 +184,17 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
