@@ -26,6 +26,7 @@
 | [0202-happy-number](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0496-next-greater-element-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0992-subarrays-with-k-different-integers) |
@@ -89,6 +90,7 @@
 | [0205-isomorphic-strings](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0402-remove-k-digits) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Harshalsharma05/leetcode-solved/tree/master/1021-remove-outermost-parentheses) |
@@ -151,6 +153,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0992-subarrays-with-k-different-integers) |
 ## Recursion
 |  |
