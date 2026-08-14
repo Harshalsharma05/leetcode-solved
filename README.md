@@ -23,6 +23,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0013-roman-to-integer) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0242-valid-anagram) |
@@ -180,6 +181,7 @@
 | [0086-partition-list](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0147-insertion-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0237-delete-node-in-a-linked-list) |
@@ -208,4 +210,12 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0287-find-the-duplicate-number) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
