@@ -6,6 +6,7 @@
 | [0014-longest-common-prefix](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0217-contains-duplicate](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0217-contains-duplicate) |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0202-happy-number) |
@@ -96,6 +98,7 @@
 | [0013-roman-to-integer](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0402-remove-k-digits) |
@@ -132,6 +135,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0049-group-anagrams) |
 | [0147-insertion-sort-list](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0147-insertion-sort-list) |
 | [0217-contains-duplicate](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0242-valid-anagram) |
