@@ -11,6 +11,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0217-contains-duplicate](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0628-maximum-product-of-three-numbers) |
@@ -33,6 +34,7 @@
 | [0205-isomorphic-strings](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0496-next-greater-element-i) |
@@ -139,6 +141,7 @@
 | [0147-insertion-sort-list](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0147-insertion-sort-list) |
 | [0217-contains-duplicate](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0973-k-closest-points-to-origin) |
@@ -151,6 +154,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0973-k-closest-points-to-origin) |
@@ -159,10 +163,12 @@
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0992-subarrays-with-k-different-integers) |
 ## Combinatorics
@@ -186,6 +192,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0973-k-closest-points-to-origin) |
 ## Linked List
 |  |
@@ -259,6 +266,7 @@
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0973-k-closest-points-to-origin) |
 ## K-D Tree
 |  |
