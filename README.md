@@ -9,6 +9,7 @@
 | [0049-group-anagrams](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0084-largest-rectangle-in-histogram) |
+| [0128-longest-consecutive-sequence](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0287-find-the-duplicate-number) |
@@ -29,6 +30,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0202-happy-number) |
@@ -277,4 +279,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0238-product-of-array-except-self) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
