@@ -22,15 +22,17 @@ public:
 
         // return nums;
 
-
+        // calculating pref and suff without extra space in linear time
         int n = nums.size();
         vector<int> pref(n);
 
+        // first pass to calc pref product array
         pref[0] = 1;
         for(int i = 1; i < n; i++) {
             pref[i] = nums[i-1] * pref[i-1];
         }
 
+        // second pass, we multiply each pref[i] with the product of all elements to the right of i (postfix product).
         int postFix = 1;
         for(int i = n-1; i >= 0; i--) {
             pref[i] *= postFix;
