@@ -10,6 +10,7 @@
 | [0053-maximum-subarray](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0217-contains-duplicate](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0496-next-greater-element-i) |
@@ -272,4 +273,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0973-k-closest-points-to-origin) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
