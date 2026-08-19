@@ -76,6 +76,7 @@
 | [0061-rotate-list](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0202-happy-number) |
@@ -104,6 +105,7 @@
 | [0014-longest-common-prefix](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0402-remove-k-digits) |
