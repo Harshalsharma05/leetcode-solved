@@ -8,7 +8,7 @@ public:
             int curr = (r-l) * min(height[l], height[r]);
             maxi = max(maxi, curr);
 
-            if(height[l] < height[r]) l++;
+            if(height[l] <= height[r]) l++;
             else r--;
         }
 
