@@ -93,6 +93,7 @@
 | [0042-trapping-rain-water](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0070-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
 |  |
@@ -132,6 +133,7 @@
 | [0013-roman-to-integer](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0973-k-closest-points-to-origin) |
@@ -288,4 +290,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0128-longest-consecutive-sequence) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
