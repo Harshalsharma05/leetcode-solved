@@ -18,6 +18,7 @@
 | [0496-next-greater-element-i](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0907-sum-of-subarray-minimums) |
 | [0973-k-closest-points-to-origin](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0973-k-closest-points-to-origin) |
@@ -239,6 +240,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
