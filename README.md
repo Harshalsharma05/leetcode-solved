@@ -32,6 +32,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0146-lru-cache) |
@@ -110,6 +111,7 @@
 | [0014-longest-common-prefix](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0242-valid-anagram) |
@@ -191,6 +193,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0992-subarrays-with-k-different-integers) |
 ## Recursion
