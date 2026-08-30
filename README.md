@@ -11,6 +11,7 @@
 | [0053-maximum-subarray](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0128-longest-consecutive-sequence) |
+| [0198-house-robber](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0287-find-the-duplicate-number) |
@@ -96,6 +97,7 @@
 | [0053-maximum-subarray](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
