@@ -307,4 +307,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0509-fibonacci-number) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Harshalsharma05/leetcode-solved/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
